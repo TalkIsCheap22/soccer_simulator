@@ -2,18 +2,25 @@ import numpy as np
 
 class Player:
     def __init__(self, dict):
-        self.name = ""
+        self.name = dict["name"]
 
         self.prev_home_goals = dict["prev_home_goals"]
         self.prev_away_goals = dict["prev_away_goals"]
         self.prev_home_assists = dict["prev_home_assists"]
         self.prev_away_assists = dict["prev_away_assists"]
         self.goals = 0
-        self.assist = 0
+        self.assists = 0
+
+    def restore(self):
+        self.goals = 0
+        self.assists = 0        
+
+   # def __hash__(self):
+   #     return 27 * 27 * (ord(self.name[0]) - ord('A')) + 27 * (ord(self.name[1]) - ord('a')) + ord(self.name[2]) - ord('a')
 
 class Team:
     def __init__(self, dict):
-        self.name = ""
+        self.name = dict["name"]
 
         self.players = []
         for item in dict["players"]:
@@ -41,9 +48,14 @@ class Team:
             self.home_assist_dict[player.name] = player.prev_home_assists
             self.away_assist_dict[player.name] = player.prev_away_assists
 
-    def rand_with_weight(tot, dict):
+    def get_player(self, name):
+        for player in self.players:
+            if player.name == name:
+                return player
+
+    def rand_with_weight(self, tot, dict):
         ra, curr, ret = np.random.uniform(0,tot), 0, None
-        for k in dict.keys:
+        for k in dict.keys():
             curr += dict[k]
             if ra <= curr:
                 ret = k
@@ -52,11 +64,11 @@ class Team:
     
     def scorer_assister(self, home):
         if home == 1:
-            scorer = self.rand_with_weight(self.prev_home_goals, self.home_goal_dict)
-            assister = self.rand_with_weight(self.prev_home_goals, self.home_assist_dict)
+            scorer = self.get_player(self.rand_with_weight(self.prev_home_goals, self.home_goal_dict))
+            assister = self.get_player(self.rand_with_weight(self.prev_home_goals, self.home_assist_dict))
         else:
-            scorer = self.rand_with_weight(self.prev_away_goals, self.away_goal_dict)
-            assister = self.rand_with_weight(self.prev_away_goals, self.away_assist_dict)
+            scorer = self.get_player(self.rand_with_weight(self.prev_away_goals, self.away_goal_dict))
+            assister = self.get_player(self.rand_with_weight(self.prev_away_goals, self.away_assist_dict))
         scorer.goals += 1
         if assister is not None:
             assister.assists += 1
@@ -64,9 +76,9 @@ class Team:
     def cal_goals(self, home, oppo):
         goals = 0
         if home == 1:
-            goals = np.random.poisson(lam=self.avg_home_goals/oppo.away_defence, size=1)
+            goals = np.random.poisson(lam=float(self.avg_home_goals)/oppo.away_defence, size=1)
         else:
-            goals = np.random.poisson(lam=self.avg_away_goals/oppo.home_defence, size=1)
+            goals = np.random.poisson(lam=float(self.avg_away_goals)/oppo.home_defence, size=1)
         for _ in range(goals):
             self.scorer_assister(home)
         return goals
@@ -79,3 +91,11 @@ class Team:
         self.goals += goals
         self.losses += oppo_goals
         self.diff = self.goals - self.losses
+
+    def restore(self):
+        self.goals = 0
+        self.losses = 0
+        self.diff = 0
+        self.points = 0
+        for player in self.players:
+            player.restore()
