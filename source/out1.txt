@@ -1,0 +1,14 @@
+i=0
+<div class="section_heading assoc_stats_standard" id="stats_standard_sh">
+<span class="section_anchor" data-label="Player Standard Stats" id="stats_standard_link"></span><h2>Player Standard Stats <span style="color: #666; font-size:smaller">2022-2023 Premier League</span></h2> <div class="section_heading_text">
+<ul>
+</ul>
+</div>
+</div>
+i=1
+<div class="section_heading_text">
+<ul>
+</ul>
+</div>
+i=2
+<div class="placeholder"></div>

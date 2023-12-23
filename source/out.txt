@@ -1,0 +1,1550 @@
+ok
+--Tour created!--
+----Round 1----
+  Manchester City   	    4     	    :     	    0     	    Southampton     	
+ 1' Julián Álvarez  	          	          	          	                    	
+ 13' Erling Haaland 	          	          	          	                    	
+  19' Riyad Mahrez  	          	          	          	                    	
+   28' Phil Foden   	          	          	          	                    	
+      Arsenal       	    1     	    :     	    2     	       Leeds        	
+                    	          	          	          	7' Luis Sinisterra Lucumí	
+                    	          	          	          	17' Rasmus Kristensen	
+65' Martin Ødegaard 	          	          	          	                    	
+   Manchester Utd   	    2     	    :     	    2     	   Leicester City   	
+                    	          	          	          	  45' Jamie Vardy   	
+75' Carlos Henrique Casimiro	          	          	          	                    	
+                    	          	          	          	 79' Çaglar Söyüncü 	
+ 87' Tyrell Malacia 	          	          	          	                    	
+     Newcastle      	    4     	    :     	    0     	      Everton       	
+   4' Joe Willock   	          	          	          	                    	
+45+3' Alexander Isak	          	          	          	                    	
+ 89' Anthony Gordon 	          	          	          	                    	
+90+3' Alexander Isak	          	          	          	                    	
+     Liverpool      	    3     	    :     	    1     	     Nottingham     	
+   7' Cody Gakpo    	          	          	          	                    	
+  16' Curtis Jones  	          	          	          	                    	
+46' Roberto Firmino 	          	          	          	                    	
+                    	          	          	          	 58' Taiwo Awoniyi  	
+      Brighton      	    3     	    :     	    2     	    Bournemouth     	
+                    	          	          	          	 23' Kieffer Moore  	
+  29' Solly March   	          	          	          	                    	
+  39' Julio Enciso  	          	          	          	                    	
+                    	          	          	          	  78' Matías Viña   	
+ 79' Danny Welbeck  	          	          	          	                    	
+    Aston Villa     	    1     	    :     	    1     	      West Ham      	
+  67' John McGinn   	          	          	          	                    	
+                    	          	          	          	  72' Declan Rice   	
+     Tottenham      	    4     	    :     	    3     	   Wolverhampton    	
+                    	          	          	          	 5' Hwang Hee-chan  	
+6' Dejan Kulusevski 	          	          	          	                    	
+   13' Harry Kane   	          	          	          	                    	
+                    	          	          	          	16' Daniel Castelo Podence	
+                    	          	          	          	57' Adama Traoré Diarra	
+58' Pierre-Emile Højbjerg	          	          	          	                    	
+  74' Oliver Skipp  	          	          	          	                    	
+     Brentford      	    2     	    :     	    0     	      Chelsea       	
+ 77' Vitaly Janelt  	          	          	          	                    	
+90+3' Christian Nørgaard	          	          	          	                    	
+       Fulham       	    0     	    :     	    1     	   Crystal Palace   	
+                    	          	          	          	   47' Joel Ward    	
+----Round 2----
+  Manchester City   	    3     	    :     	    1     	       Leeds        	
+ 20' Erling Haaland 	          	          	          	                    	
+ 58' Erling Haaland 	          	          	          	                    	
+                    	          	          	          	70' Rasmus Kristensen	
+ 85' Erling Haaland 	          	          	          	                    	
+    Southampton     	    0     	    :     	    3     	   Leicester City   	
+                    	          	          	          	 17' James Maddison 	
+                    	          	          	          	82' Ricardo Barbosa Pereira	
+                    	          	          	          	90+3' Mateus Cardoso Lemos Martins	
+      Arsenal       	    3     	    :     	    0     	      Everton       	
+10' Martin Ødegaard 	          	          	          	                    	
+71' Leandro Trossard	          	          	          	                    	
+86' Leandro Trossard	          	          	          	                    	
+   Manchester Utd   	    2     	    :     	    0     	     Nottingham     	
+56' Alejandro Garnacho	          	          	          	                    	
+66' Marcus Rashford 	          	          	          	                    	
+     Newcastle      	    5     	    :     	    0     	    Bournemouth     	
+10' Miguel Almirón Rejala	          	          	          	                    	
+ 11' Sean Longstaff 	          	          	          	                    	
+ 38' Alexander Isak 	          	          	          	                    	
+ 41' Callum Wilson  	          	          	          	                    	
+55' Joelinton Cássio Apolinário de Lira	          	          	          	                    	
+     Liverpool      	    3     	    :     	    1     	      West Ham      	
+13' Arthur Henrique Ramos de Oliveira Melo	          	          	          	                    	
+ 19' Mohamed Salah  	          	          	          	                    	
+                    	          	          	          	  24' Tomas Soucek  	
+32' Diogo Teixeira da Silva	          	          	          	                    	
+      Brighton      	    2     	    :     	    0     	   Wolverhampton    	
+  53' Deniz Undav   	          	          	          	                    	
+82' Alexis Mac Allister	          	          	          	                    	
+    Aston Villa     	    1     	    :     	    2     	      Chelsea       	
+                    	          	          	          	   3' Kai Havertz   	
+  4' Jacob Ramsey   	          	          	          	                    	
+                    	          	          	          	  56' Mason Mount   	
+     Tottenham      	    1     	    :     	    0     	   Crystal Palace   	
+   16' Harry Kane   	          	          	          	                    	
+     Brentford      	    4     	    :     	    1     	       Fulham       	
+  57' Bryan Mbeumo  	          	          	          	                    	
+  66' Bryan Mbeumo  	          	          	          	                    	
+  70' Bryan Mbeumo  	          	          	          	                    	
+   84' Ivan Toney   	          	          	          	                    	
+                    	          	          	          	90+4' Bobby De Cordova-Reid	
+----Round 3----
+  Manchester City   	    2     	    :     	    5     	   Leicester City   	
+                    	          	          	          	 11' Harvey Barnes  	
+                    	          	          	          	 12' James Maddison 	
+   54' Rico Lewis   	          	          	          	                    	
+ 58' Erling Haaland 	          	          	          	                    	
+                    	          	          	          	  58' Jamie Vardy   	
+                    	          	          	          	  59' Patson Daka   	
+                    	          	          	          	84' Youri Tielemans 	
+       Leeds        	    2     	    :     	    0     	      Everton       	
+17' Jeremiah Chilokoa-Mullen	          	          	          	                    	
+  35' Liam Cooper   	          	          	          	                    	
+    Southampton     	    3     	    :     	    0     	     Nottingham     	
+13' Kamaldeen Sulemana	          	          	          	                    	
+72' Duje Caleta-Car 	          	          	          	                    	
+90+5' James Ward-Prowse	          	          	          	                    	
+      Arsenal       	    3     	    :     	    1     	    Bournemouth     	
+ 1' Martin Ødegaard 	          	          	          	                    	
+                    	          	          	          	 6' Dominic Solanke 	
+49' Martin Ødegaard 	          	          	          	                    	
+72' Gabriel Martinelli Silva	          	          	          	                    	
+   Manchester Utd   	    0     	    :     	    0     	      West Ham      	
+     Newcastle      	    2     	    :     	    1     	   Wolverhampton    	
+                    	          	          	          	6' João Victor Gomes da Silva	
+ 24' Alexander Isak 	          	          	          	                    	
+  85' Jacob Murphy  	          	          	          	                    	
+     Liverpool      	    2     	    :     	    0     	      Chelsea       	
+7' Darwin Núñez Ribeiro	          	          	          	                    	
+ 43' Mohamed Salah  	          	          	          	                    	
+      Brighton      	    2     	    :     	    1     	   Crystal Palace   	
+  4' Evan Ferguson  	          	          	          	                    	
+32' Facundo Buonanotte	          	          	          	                    	
+                    	          	          	          	  36' Eberechi Eze  	
+    Aston Villa     	    3     	    :     	    1     	       Fulham       	
+  26' Ashley Young  	          	          	          	                    	
+ 45+2' Tyrone Mings 	          	          	          	                    	
+ 52' Ollie Watkins  	          	          	          	                    	
+                    	          	          	          	90+5' Aleksandar Mitrović	
+     Tottenham      	    2     	    :     	    1     	     Brentford      	
+   55' Harry Kane   	          	          	          	                    	
+   59' Harry Kane   	          	          	          	                    	
+                    	          	          	          	   90' Ivan Toney   	
+----Round 4----
+  Manchester City   	    2     	    :     	    0     	      Everton       	
+ 25' Erling Haaland 	          	          	          	                    	
+ 47' Erling Haaland 	          	          	          	                    	
+   Leicester City   	    0     	    :     	    0     	     Nottingham     	
+       Leeds        	    6     	    :     	    1     	    Bournemouth     	
+14' Patrick Bamford 	          	          	          	                    	
+33' Patrick Bamford 	          	          	          	                    	
+41' Luis Sinisterra Lucumí	          	          	          	                    	
+                    	          	          	          	42' Marcus Tavernier	
+ 48' Mateusz Klich  	          	          	          	                    	
+ 56' Rodrigo Moreno 	          	          	          	                    	
+90+1' Sam Greenwood 	          	          	          	                    	
+    Southampton     	    1     	    :     	    1     	      West Ham      	
+                    	          	          	          	28' Michail Antonio 	
+70' James Ward-Prowse	          	          	          	                    	
+      Arsenal       	    3     	    :     	    0     	   Wolverhampton    	
+11' Martin Ødegaard 	          	          	          	                    	
+  32' Reiss Nelson  	          	          	          	                    	
+ 45+3' Granit Xhaka 	          	          	          	                    	
+   Manchester Utd   	    2     	    :     	    1     	      Chelsea       	
+38' Frederico Rodrigues de Paula Santos	          	          	          	                    	
+                    	          	          	          	45+1' Raheem Sterling	
+  70' Jadon Sancho  	          	          	          	                    	
+     Newcastle      	    2     	    :     	    1     	   Crystal Palace   	
+38' Bruno Guimarães Rodriguez Moura	          	          	          	                    	
+ 76' Callum Wilson  	          	          	          	                    	
+                    	          	          	          	  84' Eberechi Eze  	
+     Liverpool      	    2     	    :     	    0     	       Fulham       	
+ 13' Mohamed Salah  	          	          	          	                    	
+85' Darwin Núñez Ribeiro	          	          	          	                    	
+      Brighton      	    3     	    :     	    0     	     Brentford      	
+  60' Pascal Groß   	          	          	          	                    	
+  77' Deniz Undav   	          	          	          	                    	
+79' Alexis Mac Allister	          	          	          	                    	
+    Aston Villa     	    3     	    :     	    0     	     Tottenham      	
+ 45+4' Lucas Digne  	          	          	          	                    	
+ 64' Ollie Watkins  	          	          	          	                    	
+  90' Kadan Young   	          	          	          	                    	
+----Round 5----
+  Manchester City   	    7     	    :     	    1     	     Nottingham     	
+ 21' Julián Álvarez 	          	          	          	                    	
+ 23' Erling Haaland 	          	          	          	                    	
+ 26' Erling Haaland 	          	          	          	                    	
+  45+5' Phil Foden  	          	          	          	                    	
+   67' Phil Foden   	          	          	          	                    	
+                    	          	          	          	 74' Taiwo Awoniyi  	
+ 87' Erling Haaland 	          	          	          	                    	
+90+2' Julián Álvarez	          	          	          	                    	
+      Everton       	    0     	    :     	    0     	    Bournemouth     	
+   Leicester City   	    2     	    :     	    0     	      West Ham      	
+16' Kiernan Dewsbury-Hall	          	          	          	                    	
+ 90+2' Ayoze Pérez  	          	          	          	                    	
+       Leeds        	    1     	    :     	    1     	   Wolverhampton    	
+                    	          	          	          	15' Jonathan Castro Otto	
+85' Junior Firpo Adames	          	          	          	                    	
+    Southampton     	    0     	    :     	    1     	      Chelsea       	
+                    	          	          	          	81' Benoît Badiashile	
+      Arsenal       	    3     	    :     	    2     	   Crystal Palace   	
+   8' Bukayo Saka   	          	          	          	                    	
+ 12' Thomas Partey  	          	          	          	                    	
+                    	          	          	          	   17' Joel Ward    	
+                    	          	          	          	  70' Eberechi Eze  	
+80' Martin Ødegaard 	          	          	          	                    	
+   Manchester Utd   	    2     	    :     	    0     	       Fulham       	
+19' Antony Matheus dos Santos	          	          	          	                    	
+88' Diogo Dalot Teixeira	          	          	          	                    	
+     Newcastle      	    0     	    :     	    1     	     Brentford      	
+                    	          	          	          	 14' Mathias Jensen 	
+     Liverpool      	    3     	    :     	    1     	     Tottenham      	
+9' Darwin Núñez Ribeiro	          	          	          	                    	
+ 14' Mohamed Salah  	          	          	          	                    	
+18' Diogo Teixeira da Silva	          	          	          	                    	
+                    	          	          	          	 29' Son Heung-min  	
+      Brighton      	    4     	    :     	    0     	    Aston Villa     	
+ 49' Danny Welbeck  	          	          	          	                    	
+63' Alexis Mac Allister	          	          	          	                    	
+74' Alexis Mac Allister	          	          	          	                    	
+ 76' Evan Ferguson  	          	          	          	                    	
+----Round 6----
+  Manchester City   	    5     	    :     	    1     	    Bournemouth     	
+ 28' Erling Haaland 	          	          	          	                    	
+ 47' Erling Haaland 	          	          	          	                    	
+  65' Riyad Mahrez  	          	          	          	                    	
+                    	          	          	          	65' Dominic Solanke 	
+   89' Phil Foden   	          	          	          	                    	
+   90' Phil Foden   	          	          	          	                    	
+     Nottingham     	    1     	    :     	    0     	      West Ham      	
+ 16' Taiwo Awoniyi  	          	          	          	                    	
+      Everton       	    1     	    :     	    0     	   Wolverhampton    	
+  47' Demarai Gray  	          	          	          	                    	
+   Leicester City   	    1     	    :     	    1     	      Chelsea       	
+                    	          	          	          	3' Kalidou Koulibaly	
+ 50' Harvey Barnes  	          	          	          	                    	
+       Leeds        	    1     	    :     	    3     	   Crystal Palace   	
+                    	          	          	          	 35' Wilfried Zaha  	
+  70' Luke Ayling   	          	          	          	                    	
+                    	          	          	          	 75' Wilfried Zaha  	
+                    	          	          	          	90+1' Michael Olise 	
+    Southampton     	    0     	    :     	    0     	       Fulham       	
+      Arsenal       	    2     	    :     	    1     	     Brentford      	
+  3' Reiss Nelson   	          	          	          	                    	
+6' Gabriel Fernando de Jesus	          	          	          	                    	
+                    	          	          	          	  70' Yoane Wissa   	
+   Manchester Utd   	    3     	    :     	    0     	     Tottenham      	
+ 3' Marcus Rashford 	          	          	          	                    	
+  18' Jadon Sancho  	          	          	          	                    	
+  74' Jadon Sancho  	          	          	          	                    	
+     Newcastle      	    0     	    :     	    1     	    Aston Villa     	
+                    	          	          	          	53' Bertrand Traoré 	
+     Liverpool      	    3     	    :     	    3     	      Brighton      	
+                    	          	          	          	45+2' Evan Ferguson 	
+                    	          	          	          	45+4' Evan Ferguson 	
+ 50' Mohamed Salah  	          	          	          	                    	
+                    	          	          	          	  62' Solly March   	
+ 85' Mohamed Salah  	          	          	          	                    	
+90+3' Stefan Bajcetic	          	          	          	                    	
+----Round 7----
+  Manchester City   	    3     	    :     	    0     	      West Ham      	
+ 6' Erling Haaland  	          	          	          	                    	
+ 33' Erling Haaland 	          	          	          	                    	
+  70' Riyad Mahrez  	          	          	          	                    	
+    Bournemouth     	    0     	    :     	    0     	   Wolverhampton    	
+     Nottingham     	    1     	    :     	    1     	      Chelsea       	
+45+1' Taiwo Awoniyi 	          	          	          	                    	
+                    	          	          	          	45+1' João Félix Sequeira	
+      Everton       	    0     	    :     	    1     	   Crystal Palace   	
+                    	          	          	          	   44' Marc Guéhi   	
+   Leicester City   	    0     	    :     	    1     	       Fulham       	
+                    	          	          	          	   67' Kenny Tete   	
+       Leeds        	    3     	    :     	    0     	     Brentford      	
+ 2' Rodrigo Moreno  	          	          	          	                    	
+ 7' Rodrigo Moreno  	          	          	          	                    	
+ 17' Pascal Struijk 	          	          	          	                    	
+    Southampton     	    0     	    :     	    5     	     Tottenham      	
+                    	          	          	          	   6' Harry Kane    	
+                    	          	          	          	 28' Son Heung-min  	
+                    	          	          	          	   28' Harry Kane   	
+                    	          	          	          	   43' Eric Dier    	
+                    	          	          	          	   50' Harry Kane   	
+      Arsenal       	    1     	    :     	    2     	    Aston Villa     	
+  13' Granit Xhaka  	          	          	          	                    	
+                    	          	          	          	 35' Ollie Watkins  	
+                    	          	          	          	 48' Ollie Watkins  	
+   Manchester Utd   	    1     	    :     	    0     	      Brighton      	
+59' Lisandro Martínez	          	          	          	                    	
+     Newcastle      	    3     	    :     	    1     	     Liverpool      	
+  1' Callum Wilson  	          	          	          	                    	
+54' Kieran Trippier 	          	          	          	                    	
+                    	          	          	          	 60' Mohamed Salah  	
+ 84' Callum Wilson  	          	          	          	                    	
+----Round 8----
+  Manchester City   	    4     	    :     	    0     	   Wolverhampton    	
+ 3' Erling Haaland  	          	          	          	                    	
+   19' Nathan Aké   	          	          	          	                    	
+58' Bernardo Veiga de Carvalho e Silva	          	          	          	                    	
+  90+2' Phil Foden  	          	          	          	                    	
+      West Ham      	    0     	    :     	    2     	      Chelsea       	
+                    	          	          	          	26' Raheem Sterling 	
+                    	          	          	          	  38' Harvey Vale   	
+    Bournemouth     	    2     	    :     	    0     	   Crystal Palace   	
+32' Jefferson Lerma Solís	          	          	          	                    	
+53' Antoine Semenyo 	          	          	          	                    	
+     Nottingham     	    2     	    :     	    2     	       Fulham       	
+11' Brennan Johnson 	          	          	          	                    	
+                    	          	          	          	 46' Harrison Reed  	
+ 56' Lewis O'Brien  	          	          	          	                    	
+                    	          	          	          	87' Aleksandar Mitrović	
+      Everton       	    1     	    :     	    2     	     Brentford      	
+                    	          	          	          	   40' Ivan Toney   	
+45+2' Abdoulaye Doucouré	          	          	          	                    	
+                    	          	          	          	 69' Mathias Jensen 	
+   Leicester City   	    4     	    :     	    1     	     Tottenham      	
+ 48' Harvey Barnes  	          	          	          	                    	
+ 52' Nampalys Mendy 	          	          	          	                    	
+63' Kelechi Iheanacho	          	          	          	                    	
+ 73' James Maddison 	          	          	          	                    	
+                    	          	          	          	   75' Harry Kane   	
+       Leeds        	    1     	    :     	    3     	    Aston Villa     	
+                    	          	          	          	  28' Leon Bailey   	
+                    	          	          	          	 45+3' Ashley Young 	
+ 67' Sam Greenwood  	          	          	          	                    	
+                    	          	          	          	90+5' Emiliano Buendía Stati	
+    Southampton     	    1     	    :     	    4     	      Brighton      	
+   22' Che Adams    	          	          	          	                    	
+                    	          	          	          	22' Alexis Mac Allister	
+                    	          	          	          	 29' Danny Welbeck  	
+                    	          	          	          	  71' Kaoru Mitoma  	
+                    	          	          	          	82' Alexis Mac Allister	
+      Arsenal       	    2     	    :     	    2     	     Liverpool      	
+                    	          	          	          	19' Diogo Teixeira da Silva	
+42' Gabriel Martinelli Silva	          	          	          	                    	
+  79' Bukayo Saka   	          	          	          	                    	
+                    	          	          	          	  90+4' Cody Gakpo  	
+   Manchester Utd   	    0     	    :     	    1     	     Newcastle      	
+                    	          	          	          	 58' Callum Wilson  	
+----Round 9----
+  Manchester City   	    1     	    :     	    0     	      Chelsea       	
+45+3' Erling Haaland	          	          	          	                    	
+   Wolverhampton    	    0     	    :     	    1     	   Crystal Palace   	
+                    	          	          	          	22' Jean-Philippe Mateta	
+      West Ham      	    0     	    :     	    0     	       Fulham       	
+    Bournemouth     	    4     	    :     	    0     	     Brentford      	
+ 20' Philip Billing 	          	          	          	                    	
+21' Marcus Tavernier	          	          	          	                    	
+24' Marcus Tavernier	          	          	          	                    	
+ 72' Jaidon Anthony 	          	          	          	                    	
+     Nottingham     	    1     	    :     	    2     	     Tottenham      	
+4' Danilo dos Santos de Oliveira	          	          	          	                    	
+                    	          	          	          	   19' Harry Kane   	
+                    	          	          	          	 28' Son Heung-min  	
+      Everton       	    0     	    :     	    2     	    Aston Villa     	
+                    	          	          	          	  28' Jacob Ramsey  	
+                    	          	          	          	 48' Ollie Watkins  	
+   Leicester City   	    3     	    :     	    1     	      Brighton      	
+ 36' Harvey Barnes  	          	          	          	                    	
+40' Kiernan Dewsbury-Hall	          	          	          	                    	
+61' Kelechi Iheanacho	          	          	          	                    	
+                    	          	          	          	  63' Solly March   	
+       Leeds        	    0     	    :     	    4     	     Liverpool      	
+                    	          	          	          	  3' Curtis Jones   	
+                    	          	          	          	 18' Mohamed Salah  	
+                    	          	          	          	   71' Luis Díaz    	
+                    	          	          	          	84' Darwin Núñez Ribeiro	
+    Southampton     	    0     	    :     	    1     	     Newcastle      	
+                    	          	          	          	45+5' Callum Wilson 	
+      Arsenal       	    0     	    :     	    1     	   Manchester Utd   	
+                    	          	          	          	54' Bruno Borges Fernandes	
+----Round 10----
+  Manchester City   	    1     	    :     	    0     	   Crystal Palace   	
+ 10' Julián Álvarez 	          	          	          	                    	
+      Chelsea       	    1     	    :     	    2     	       Fulham       	
+                    	          	          	          	  3' Manor Solomon  	
+                    	          	          	          	30' Bobby De Cordova-Reid	
+83' João Félix Sequeira	          	          	          	                    	
+   Wolverhampton    	    0     	    :     	    2     	     Brentford      	
+                    	          	          	          	   21' Ivan Toney   	
+                    	          	          	          	   84' Ivan Toney   	
+      West Ham      	    1     	    :     	    2     	     Tottenham      	
+27' Lucas Tolentino Coelho de Lima	          	          	          	                    	
+                    	          	          	          	45+1' Son Heung-min 	
+                    	          	          	          	  64' Oliver Skipp  	
+    Bournemouth     	    2     	    :     	    1     	    Aston Villa     	
+                    	          	          	          	2' Emiliano Buendía Stati	
+18' Jefferson Lerma Solís	          	          	          	                    	
+ 29' Kieffer Moore  	          	          	          	                    	
+     Nottingham     	    0     	    :     	    3     	      Brighton      	
+                    	          	          	          	5' Alexis Mac Allister	
+                    	          	          	          	40' Alexis Mac Allister	
+                    	          	          	          	 90+4' Deniz Undav  	
+      Everton       	    1     	    :     	    3     	     Liverpool      	
+   7' Neal Maupay   	          	          	          	                    	
+                    	          	          	          	10' Roberto Firmino 	
+                    	          	          	          	41' Diogo Teixeira da Silva	
+                    	          	          	          	 90+2' Curtis Jones 	
+   Leicester City   	    0     	    :     	    2     	     Newcastle      	
+                    	          	          	          	 10' Callum Wilson  	
+                    	          	          	          	  86' Jacob Murphy  	
+       Leeds        	    4     	    :     	    0     	   Manchester Utd   	
+  13' Luke Ayling   	          	          	          	                    	
+51' Rasmus Kristensen	          	          	          	                    	
+ 57' Jack Harrison  	          	          	          	                    	
+68' Wilfried Gnonto 	          	          	          	                    	
+    Southampton     	    3     	    :     	    5     	      Arsenal       	
+                    	          	          	          	  17' Granit Xhaka  	
+                    	          	          	          	18' Leandro Trossard	
+                    	          	          	          	21' Gabriel Fernando de Jesus	
+47' Mohamed Elyounoussi	          	          	          	                    	
+71' Kamaldeen Sulemana	          	          	          	                    	
+88' James Ward-Prowse	          	          	          	                    	
+                    	          	          	          	90+2' Eddie Nketiah 	
+                    	          	          	          	 90+3' Bukayo Saka  	
+----Round 11----
+  Manchester City   	    3     	    :     	    1     	       Fulham       	
+ 25' Ilkay Gündogan 	          	          	          	                    	
+44' Kevin De Bruyne 	          	          	          	                    	
+                    	          	          	          	  59' Daniel James  	
+77' Kevin De Bruyne 	          	          	          	                    	
+   Crystal Palace   	    1     	    :     	    2     	     Brentford      	
+                    	          	          	          	  28' Yoane Wissa   	
+84' Jean-Philippe Mateta	          	          	          	                    	
+                    	          	          	          	 90+5' Josh Dasilva 	
+      Chelsea       	    1     	    :     	    2     	     Tottenham      	
+40' Raheem Sterling 	          	          	          	                    	
+                    	          	          	          	 49' Son Heung-min  	
+                    	          	          	          	90' Rodrigo Bentancur	
+   Wolverhampton    	    0     	    :     	    3     	    Aston Villa     	
+                    	          	          	          	  21' Jacob Ramsey  	
+                    	          	          	          	  26' Jacob Ramsey  	
+                    	          	          	          	81' Emiliano Buendía Stati	
+      West Ham      	    0     	    :     	    2     	      Brighton      	
+                    	          	          	          	 68' Evan Ferguson  	
+                    	          	          	          	  71' Solly March   	
+    Bournemouth     	    0     	    :     	    1     	     Liverpool      	
+                    	          	          	          	42' Diogo Teixeira da Silva	
+     Nottingham     	    1     	    :     	    0     	     Newcastle      	
+15' Brennan Johnson 	          	          	          	                    	
+      Everton       	    2     	    :     	    1     	   Manchester Utd   	
+                    	          	          	          	45+5' Marcus Rashford	
+  71' Neal Maupay   	          	          	          	                    	
+  79' Amadou Onana  	          	          	          	                    	
+   Leicester City   	    1     	    :     	    2     	      Arsenal       	
+                    	          	          	          	33' Gabriel Martinelli Silva	
+                    	          	          	          	 42' Eddie Nketiah  	
+77' Kelechi Iheanacho	          	          	          	                    	
+       Leeds        	    2     	    :     	    0     	    Southampton     	
+  29' Luke Ayling   	          	          	          	                    	
+ 30' Rodrigo Moreno 	          	          	          	                    	
+----Round 12----
+  Manchester City   	    3     	    :     	    1     	     Brentford      	
+ 13' Erling Haaland 	          	          	          	                    	
+ 27' Julián Álvarez 	          	          	          	                    	
+                    	          	          	          	 45+1' Yoane Wissa  	
+46' Kevin De Bruyne 	          	          	          	                    	
+       Fulham       	    2     	    :     	    3     	     Tottenham      	
+                    	          	          	          	   9' Harry Kane    	
+  15' Harry Wilson  	          	          	          	                    	
+                    	          	          	          	   78' Harry Kane   	
+90' Aleksandar Mitrović	          	          	          	                    	
+                    	          	          	          	90+2' Rodrigo Bentancur	
+   Crystal Palace   	    1     	    :     	    2     	    Aston Villa     	
+                    	          	          	          	10' Douglas Luiz Soares de Paulo	
+                    	          	          	          	21' Ludwig Augustinsson	
+ 52' Sam Johnstone  	          	          	          	                    	
+      Chelsea       	    2     	    :     	    2     	      Brighton      	
+                    	          	          	          	  12' Deniz Undav   	
+                    	          	          	          	  30' Pascal Groß   	
+ 45+1' Kai Havertz  	          	          	          	                    	
+77' Christian Pulisic	          	          	          	                    	
+   Wolverhampton    	    0     	    :     	    2     	     Liverpool      	
+                    	          	          	          	9' Trent Alexander-Arnold	
+                    	          	          	          	54' Roberto Firmino 	
+      West Ham      	    1     	    :     	    0     	     Newcastle      	
+ 28' Saïd Benrahma  	          	          	          	                    	
+    Bournemouth     	    0     	    :     	    3     	   Manchester Utd   	
+                    	          	          	          	45+3' Marcus Rashford	
+                    	          	          	          	90' Carlos Henrique Casimiro	
+                    	          	          	          	90' Marcus Rashford 	
+     Nottingham     	    0     	    :     	    0     	      Arsenal       	
+      Everton       	    0     	    :     	    0     	    Southampton     	
+   Leicester City   	    0     	    :     	    2     	       Leeds        	
+                    	          	          	          	35' Rasmus Kristensen	
+                    	          	          	          	79' Wilfried Gnonto 	
+----Round 13----
+  Manchester City   	    0     	    :     	    2     	     Tottenham      	
+                    	          	          	          	   11' Harry Kane   	
+                    	          	          	          	   68' Harry Kane   	
+     Brentford      	    1     	    :     	    2     	    Aston Villa     	
+                    	          	          	          	45+2' Douglas Luiz Soares de Paulo	
+                    	          	          	          	73' Emiliano Buendía Stati	
+  90+1' Ivan Toney  	          	          	          	                    	
+       Fulham       	    4     	    :     	    1     	      Brighton      	
+   50' Issa Diop    	          	          	          	                    	
+58' Aleksandar Mitrović	          	          	          	                    	
+                    	          	          	          	 62' Evan Ferguson  	
+75' Aleksandar Mitrović	          	          	          	                    	
+90+1' Aleksandar Mitrović	          	          	          	                    	
+   Crystal Palace   	    0     	    :     	    1     	     Liverpool      	
+                    	          	          	          	42' Roberto Firmino 	
+      Chelsea       	    1     	    :     	    1     	     Newcastle      	
+                    	          	          	          	  53' Joe Willock   	
+66' Raheem Sterling 	          	          	          	                    	
+   Wolverhampton    	    1     	    :     	    5     	   Manchester Utd   	
+                    	          	          	          	14' Marcus Rashford 	
+                    	          	          	          	  45+2' Luke Shaw   	
+49' Rúben da Silva Neves	          	          	          	                    	
+                    	          	          	          	53' Antony Matheus dos Santos	
+                    	          	          	          	69' Donny van de Beek	
+                    	          	          	          	74' Anthony Martial 	
+      West Ham      	    0     	    :     	    4     	      Arsenal       	
+                    	          	          	          	   2' Bukayo Saka   	
+                    	          	          	          	24' Gabriel Martinelli Silva	
+                    	          	          	          	 38' Benjamin White 	
+                    	          	          	          	90+5' Gabriel Martinelli Silva	
+    Bournemouth     	    4     	    :     	    1     	    Southampton     	
+ 22' Philip Billing 	          	          	          	                    	
+31' Marcus Tavernier	          	          	          	                    	
+ 32' Philip Billing 	          	          	          	                    	
+ 82' Kieffer Moore  	          	          	          	                    	
+                    	          	          	          	   84' Che Adams    	
+     Nottingham     	    0     	    :     	    2     	       Leeds        	
+                    	          	          	          	14' Patrick Bamford 	
+                    	          	          	          	 35' Diego Llorente 	
+      Everton       	    0     	    :     	    2     	   Leicester City   	
+                    	          	          	          	14' Youri Tielemans 	
+                    	          	          	          	60' Marc Albrighton 	
+----Round 14----
+  Manchester City   	    4     	    :     	    1     	    Aston Villa     	
+ 4' Julián Álvarez  	          	          	          	                    	
+ 36' Erling Haaland 	          	          	          	                    	
+ 37' Erling Haaland 	          	          	          	                    	
+                    	          	          	          	  46' Ashley Young  	
+   59' Phil Foden   	          	          	          	                    	
+     Tottenham      	    2     	    :     	    6     	      Brighton      	
+                    	          	          	          	  11' Kaoru Mitoma  	
+                    	          	          	          	  32' Kaoru Mitoma  	
+   49' Harry Kane   	          	          	          	                    	
+                    	          	          	          	64' Taylor Richards 	
+71' Pierre-Emile Højbjerg	          	          	          	                    	
+                    	          	          	          	  84' Joël Veltman  	
+                    	          	          	          	  85' Kaoru Mitoma  	
+                    	          	          	          	 86' Evan Ferguson  	
+     Brentford      	    4     	    :     	    2     	     Liverpool      	
+   28' Ivan Toney   	          	          	          	                    	
+                    	          	          	          	30' Darwin Núñez Ribeiro	
+ 56' Pontus Jansson 	          	          	          	                    	
+   64' Ivan Toney   	          	          	          	                    	
+   71' Ivan Toney   	          	          	          	                    	
+                    	          	          	          	90+1' Harvey Elliott	
+       Fulham       	    3     	    :     	    0     	     Newcastle      	
+10' Carlos Vinícius Alves Morais	          	          	          	                    	
+51' Bobby De Cordova-Reid	          	          	          	                    	
+52' Andreas Hoelgebaum Pereira	          	          	          	                    	
+   Crystal Palace   	    2     	    :     	    2     	   Manchester Utd   	
+                    	          	          	          	 7' Marcus Rashford 	
+  8' Eberechi Eze   	          	          	          	                    	
+  39' Will Hughes   	          	          	          	                    	
+                    	          	          	          	66' Bruno Borges Fernandes	
+      Chelsea       	    1     	    :     	    0     	      Arsenal       	
+  56' Reece James   	          	          	          	                    	
+   Wolverhampton    	    3     	    :     	    2     	    Southampton     	
+18' Rúben da Silva Neves	          	          	          	                    	
+ 45+5' Craig Dawson 	          	          	          	                    	
+50' Adama Traoré Diarra	          	          	          	                    	
+                    	          	          	          	70' Joe Ayodele-Aribo	
+                    	          	          	          	   87' Che Adams    	
+      West Ham      	    3     	    :     	    1     	       Leeds        	
+                    	          	          	          	 12' Jack Harrison  	
+ 28' Saïd Benrahma  	          	          	          	                    	
+52' Gianluca Scamacca	          	          	          	                    	
+82' Emerson Palmieri dos Santos	          	          	          	                    	
+    Bournemouth     	    1     	    :     	    0     	   Leicester City   	
+ 60' Dango Ouattara 	          	          	          	                    	
+     Nottingham     	    1     	    :     	    1     	      Everton       	
+   68' Chris Wood   	          	          	          	                    	
+                    	          	          	          	  90' Neal Maupay   	
+----Round 15----
+  Manchester City   	    4     	    :     	    4     	      Brighton      	
+                    	          	          	          	  6' Evan Ferguson  	
+15' Bernardo Veiga de Carvalho e Silva	          	          	          	                    	
+  18' Riyad Mahrez  	          	          	          	                    	
+ 22' Jack Grealish  	          	          	          	                    	
+                    	          	          	          	  37' Pascal Groß   	
+ 41' Erling Haaland 	          	          	          	                    	
+                    	          	          	          	48' Alexis Mac Allister	
+                    	          	          	          	 90+4' Pascal Groß  	
+    Aston Villa     	    2     	    :     	    1     	     Liverpool      	
+  48' Jacob Ramsey  	          	          	          	                    	
+  76' Ashley Young  	          	          	          	                    	
+                    	          	          	          	90+5' Trent Alexander-Arnold	
+     Tottenham      	    2     	    :     	    2     	     Newcastle      	
+5' Lucas Rodrigues Moura da Silva	          	          	          	                    	
+                    	          	          	          	45+4' Callum Wilson 	
+                    	          	          	          	 90' Callum Wilson  	
+90+4' Ryan Sessegnon	          	          	          	                    	
+     Brentford      	    6     	    :     	    1     	   Manchester Utd   	
+  3' Vitaly Janelt  	          	          	          	                    	
+ 29' Mathias Jensen 	          	          	          	                    	
+   31' Ivan Toney   	          	          	          	                    	
+   40' Ivan Toney   	          	          	          	                    	
+                    	          	          	          	  70' Jadon Sancho  	
+  75' Bryan Mbeumo  	          	          	          	                    	
+ 76' Mathias Jensen 	          	          	          	                    	
+       Fulham       	    0     	    :     	    4     	      Arsenal       	
+                    	          	          	          	 9' Martin Ødegaard 	
+                    	          	          	          	 45+5' Bukayo Saka  	
+                    	          	          	          	77' Gabriel dos Santos Magalhães	
+                    	          	          	          	86' Jorge Luiz Frello Filho	
+   Crystal Palace   	    1     	    :     	    0     	    Southampton     	
+  16' Eberechi Eze  	          	          	          	                    	
+      Chelsea       	    1     	    :     	    1     	       Leeds        	
+  38' Hakim Ziyech  	          	          	          	                    	
+                    	          	          	          	50' Crysencio Summerville	
+   Wolverhampton    	    1     	    :     	    2     	   Leicester City   	
+6' Daniel Castelo Podence	          	          	          	                    	
+                    	          	          	          	38' Kelechi Iheanacho	
+                    	          	          	          	 60' Harvey Barnes  	
+      West Ham      	    0     	    :     	    1     	      Everton       	
+                    	          	          	          	 63' Dwight McNeil  	
+    Bournemouth     	    0     	    :     	    2     	     Nottingham     	
+                    	          	          	          	  44' Serge Aurier  	
+                    	          	          	          	60' Morgan Gibbs-White	
+----Round 16----
+  Manchester City   	    2     	    :     	    0     	     Liverpool      	
+ 7' Kevin De Bruyne 	          	          	          	                    	
+ 85' Erling Haaland 	          	          	          	                    	
+      Brighton      	    1     	    :     	    4     	     Newcastle      	
+   8' Tom McGill    	          	          	          	                    	
+                    	          	          	          	 42' Anthony Gordon 	
+                    	          	          	          	 44' Alexander Isak 	
+                    	          	          	          	 48' Callum Wilson  	
+                    	          	          	          	87' Miguel Almirón Rejala	
+    Aston Villa     	    2     	    :     	    1     	   Manchester Utd   	
+  3' Jacob Ramsey   	          	          	          	                    	
+ 27' Ollie Watkins  	          	          	          	                    	
+                    	          	          	          	49' Antony Matheus dos Santos	
+     Tottenham      	    1     	    :     	    1     	      Arsenal       	
+  51' Ivan Perišić  	          	          	          	                    	
+                    	          	          	          	58' Leandro Trossard	
+     Brentford      	    1     	    :     	    0     	    Southampton     	
+    58' Ben Mee     	          	          	          	                    	
+       Fulham       	    5     	    :     	    3     	       Leeds        	
+8' Aleksandar Mitrović	          	          	          	                    	
+11' Aleksandar Mitrović	          	          	          	                    	
+  28' Tom Cairney   	          	          	          	                    	
+                    	          	          	          	 32' Sam Greenwood  	
+                    	          	          	          	45+2' Pascal Struijk	
+  50' Tom Cairney   	          	          	          	                    	
+67' Carlos Vinícius Alves Morais	          	          	          	                    	
+                    	          	          	          	 86' Rodrigo Moreno 	
+   Crystal Palace   	    2     	    :     	    1     	   Leicester City   	
+                    	          	          	          	45+2' Kelechi Iheanacho	
+ 48' Wilfried Zaha  	          	          	          	                    	
+ 59' Wilfried Zaha  	          	          	          	                    	
+      Chelsea       	    1     	    :     	    0     	      Everton       	
+90' Raheem Sterling 	          	          	          	                    	
+   Wolverhampton    	    1     	    :     	    0     	     Nottingham     	
+90+5' Daniel Castelo Podence	          	          	          	                    	
+      West Ham      	    2     	    :     	    2     	    Bournemouth     	
+   12' Danny Ings   	          	          	          	                    	
+   13' Danny Ings   	          	          	          	                    	
+                    	          	          	          	 63' Philip Billing 	
+                    	          	          	          	  78' Matías Viña   	
+----Round 17----
+  Manchester City   	    2     	    :     	    3     	     Newcastle      	
+                    	          	          	          	 11' Callum Wilson  	
+ 16' Erling Haaland 	          	          	          	                    	
+                    	          	          	          	    20' Dan Burn    	
+                    	          	          	          	 44' Callum Wilson  	
+ 46' Ilkay Gündogan 	          	          	          	                    	
+     Liverpool      	    2     	    :     	    1     	   Manchester Utd   	
+                    	          	          	          	65' Anthony Martial 	
+   66' Luis Díaz    	          	          	          	                    	
+72' Roberto Firmino 	          	          	          	                    	
+      Brighton      	    2     	    :     	    2     	      Arsenal       	
+                    	          	          	          	20' Gabriel Martinelli Silva	
+  33' Julio Enciso  	          	          	          	                    	
+45+1' Danny Welbeck 	          	          	          	                    	
+                    	          	          	          	63' Gabriel Fernando de Jesus	
+    Aston Villa     	    2     	    :     	    0     	    Southampton     	
+  10' Jacob Ramsey  	          	          	          	                    	
+  16' Jacob Ramsey  	          	          	          	                    	
+     Tottenham      	    7     	    :     	    1     	       Leeds        	
+11' Emerson Leite de Souza Junior	          	          	          	                    	
+  17' Matt Doherty  	          	          	          	                    	
+   43' Harry Kane   	          	          	          	                    	
+ 70' Son Heung-min  	          	          	          	                    	
+                    	          	          	          	73' Marc Roca Junqué	
+   82' Harry Kane   	          	          	          	                    	
+90+2' Richarlison de Andrade	          	          	          	                    	
+90+4' Rodrigo Bentancur	          	          	          	                    	
+     Brentford      	    3     	    :     	    3     	   Leicester City   	
+                    	          	          	          	 5' James Maddison  	
+   17' Ivan Toney   	          	          	          	                    	
+                    	          	          	          	 64' Harvey Barnes  	
+   80' Ivan Toney   	          	          	          	                    	
+  81' Josh Dasilva  	          	          	          	                    	
+                    	          	          	          	82' Ricardo Barbosa Pereira	
+       Fulham       	    0     	    :     	    1     	      Everton       	
+                    	          	          	          	  63' Demarai Gray  	
+   Crystal Palace   	    1     	    :     	    0     	     Nottingham     	
+29' Odsonne Edouard 	          	          	          	                    	
+      Chelsea       	    2     	    :     	    0     	    Bournemouth     	
+38' Raheem Sterling 	          	          	          	                    	
+  53' Kai Havertz   	          	          	          	                    	
+   Wolverhampton    	    1     	    :     	    1     	      West Ham      	
+3' Daniel Castelo Podence	          	          	          	                    	
+                    	          	          	          	44' Michail Antonio 	
+----Round 18----
+  Manchester City   	    3     	    :     	    0     	   Manchester Utd   	
+  9' Riyad Mahrez   	          	          	          	                    	
+45+4' Erling Haaland	          	          	          	                    	
+57' Rodrigo Hernandez	          	          	          	                    	
+     Newcastle      	    3     	    :     	    0     	      Arsenal       	
+ 35' Callum Wilson  	          	          	          	                    	
+72' Miguel Almirón Rejala	          	          	          	                    	
+90+3' Joelinton Cássio Apolinário de Lira	          	          	          	                    	
+     Liverpool      	    3     	    :     	    1     	    Southampton     	
+   3' Cody Gakpo    	          	          	          	                    	
+                    	          	          	          	   40' Che Adams    	
+49' Roberto Firmino 	          	          	          	                    	
+85' Roberto Firmino 	          	          	          	                    	
+      Brighton      	    2     	    :     	    0     	       Leeds        	
+27' Alexis Mac Allister	          	          	          	                    	
+ 51' Danny Welbeck  	          	          	          	                    	
+    Aston Villa     	    1     	    :     	    0     	   Leicester City   	
+47' Douglas Luiz Soares de Paulo	          	          	          	                    	
+     Tottenham      	    4     	    :     	    1     	      Everton       	
+   31' Harry Kane   	          	          	          	                    	
+   43' Harry Kane   	          	          	          	                    	
+   67' Harry Kane   	          	          	          	                    	
+                    	          	          	          	 71' Seamus Coleman 	
+ 89' Ryan Sessegnon 	          	          	          	                    	
+     Brentford      	    2     	    :     	    0     	     Nottingham     	
+   51' Ivan Toney   	          	          	          	                    	
+ 74' Vitaly Janelt  	          	          	          	                    	
+       Fulham       	    0     	    :     	    0     	    Bournemouth     	
+   Crystal Palace   	    1     	    :     	    0     	      West Ham      	
+10' Jean-Philippe Mateta	          	          	          	                    	
+      Chelsea       	    0     	    :     	    0     	   Wolverhampton    	
+----Round 19----
+  Manchester City   	    0     	    :     	    0     	      Arsenal       	
+   Manchester Utd   	    3     	    :     	    1     	    Southampton     	
+13' Anthony Martial 	          	          	          	                    	
+   23' Luke Shaw    	          	          	          	                    	
+                    	          	          	          	   48' Che Adams    	
+58' Anthony Martial 	          	          	          	                    	
+     Newcastle      	    2     	    :     	    2     	       Leeds        	
+                    	          	          	          	 30' Rodrigo Moreno 	
+ 61' Alexander Isak 	          	          	          	                    	
+                    	          	          	          	70' Rasmus Kristensen	
+90+2' Callum Wilson 	          	          	          	                    	
+     Liverpool      	    3     	    :     	    0     	   Leicester City   	
+ 15' Mohamed Salah  	          	          	          	                    	
+24' Roberto Firmino 	          	          	          	                    	
+90+2' Mohamed Salah 	          	          	          	                    	
+      Brighton      	    2     	    :     	    3     	      Everton       	
+  27' Adam Lallana  	          	          	          	                    	
+                    	          	          	          	   55' Alex Iwobi   	
+ 66' James Furlong  	          	          	          	                    	
+                    	          	          	          	  80' Demarai Gray  	
+                    	          	          	          	90+5' Abdoulaye Doucouré	
+    Aston Villa     	    1     	    :     	    0     	     Nottingham     	
+  13' Jacob Ramsey  	          	          	          	                    	
+     Tottenham      	    4     	    :     	    0     	    Bournemouth     	
+   2' Harry Kane    	          	          	          	                    	
+   17' Harry Kane   	          	          	          	                    	
+   48' Harry Kane   	          	          	          	                    	
+90+4' Lucas Rodrigues Moura da Silva	          	          	          	                    	
+     Brentford      	    1     	    :     	    0     	      West Ham      	
+56' Christian Nørgaard	          	          	          	                    	
+       Fulham       	    0     	    :     	    2     	   Wolverhampton    	
+                    	          	          	          	4' Daniel Castelo Podence	
+                    	          	          	          	9' Matheus Santos Carneiro Da Cunha	
+   Crystal Palace   	    4     	    :     	    2     	      Chelsea       	
+  16' Jordan Ayew   	          	          	          	                    	
+  25' Eberechi Eze  	          	          	          	                    	
+ 48' Wilfried Zaha  	          	          	          	                    	
+                    	          	          	          	55' Conor Gallagher 	
+                    	          	          	          	  65' Mason Mount   	
+ 87' Wilfried Zaha  	          	          	          	                    	
+----Round 20----
+    Southampton     	    0     	    :     	    1     	  Manchester City   	
+                    	          	          	          	43' Kevin De Bruyne 	
+       Leeds        	    0     	    :     	    3     	      Arsenal       	
+                    	          	          	          	21' Leandro Trossard	
+                    	          	          	          	  40' Granit Xhaka  	
+                    	          	          	          	56' Martin Ødegaard 	
+   Leicester City   	    2     	    :     	    2     	   Manchester Utd   	
+                    	          	          	          	14' Marcus Rashford 	
+37' Marc Albrighton 	          	          	          	                    	
+ 53' Harvey Barnes  	          	          	          	                    	
+                    	          	          	          	55' Frederico Rodrigues de Paula Santos	
+      Everton       	    1     	    :     	    1     	     Newcastle      	
+   23' Yerry Mina   	          	          	          	                    	
+                    	          	          	          	 61' Alexander Isak 	
+     Nottingham     	    1     	    :     	    1     	     Liverpool      	
+                    	          	          	          	28' Fábio Freitas Gouveia Carvalho	
+   88' Chris Wood   	          	          	          	                    	
+    Bournemouth     	    0     	    :     	    4     	      Brighton      	
+                    	          	          	          	  12' Pascal Groß   	
+                    	          	          	          	45+5' Moisés Caicedo Corozo	
+                    	          	          	          	 48' Evan Ferguson  	
+                    	          	          	          	 85' Danny Welbeck  	
+      West Ham      	    2     	    :     	    0     	    Aston Villa     	
+  36' Jarrod Bowen  	          	          	          	                    	
+  60' Nayef Aguerd  	          	          	          	                    	
+   Wolverhampton    	    0     	    :     	    4     	     Tottenham      	
+                    	          	          	          	  11' Pedro Porro   	
+                    	          	          	          	   43' Harry Kane   	
+                    	          	          	          	   72' Harry Kane   	
+                    	          	          	          	  90+1' Harry Kane  	
+      Chelsea       	    1     	    :     	    0     	     Brentford      	
+31' Conor Gallagher 	          	          	          	                    	
+   Crystal Palace   	    1     	    :     	    1     	       Fulham       	
+                    	          	          	          	30' Aleksandar Mitrović	
+  80' Eberechi Eze  	          	          	          	                    	
+----Round 21----
+       Leeds        	    0     	    :     	    2     	  Manchester City   	
+                    	          	          	          	 23' Erling Haaland 	
+                    	          	          	          	  30' Riyad Mahrez  	
+   Leicester City   	    1     	    :     	    2     	    Southampton     	
+                    	          	          	          	26' Kyle Walker-Peters	
+                    	          	          	          	 68' Romain Perraud 	
+75' Timothy Castagne	          	          	          	                    	
+      Everton       	    0     	    :     	    4     	      Arsenal       	
+                    	          	          	          	17' Leandro Trossard	
+                    	          	          	          	20' Gabriel Fernando de Jesus	
+                    	          	          	          	  45' Rob Holding   	
+                    	          	          	          	  66' Granit Xhaka  	
+     Nottingham     	    0     	    :     	    0     	   Manchester Utd   	
+    Bournemouth     	    0     	    :     	    1     	     Newcastle      	
+                    	          	          	          	75' Miguel Almirón Rejala	
+      West Ham      	    2     	    :     	    4     	     Liverpool      	
+                    	          	          	          	 4' Harvey Elliott  	
+                    	          	          	          	 20' Mohamed Salah  	
+   36' Danny Ings   	          	          	          	                    	
+   43' Danny Ings   	          	          	          	                    	
+                    	          	          	          	  48' Curtis Jones  	
+                    	          	          	          	62' Diogo Teixeira da Silva	
+   Wolverhampton    	    1     	    :     	    1     	      Brighton      	
+1' Daniel Castelo Podence	          	          	          	                    	
+                    	          	          	          	 50' Evan Ferguson  	
+      Chelsea       	    0     	    :     	    0     	    Aston Villa     	
+   Crystal Palace   	    3     	    :     	    0     	     Tottenham      	
+  7' Eberechi Eze   	          	          	          	                    	
+  44' Jordan Ayew   	          	          	          	                    	
+  84' Eberechi Eze  	          	          	          	                    	
+       Fulham       	    2     	    :     	    0     	     Brentford      	
+  10' Harry Wilson  	          	          	          	                    	
+50' Willian Borges da Silva	          	          	          	                    	
+----Round 22----
+   Leicester City   	    1     	    :     	    1     	  Manchester City   	
+  2' Harvey Barnes  	          	          	          	                    	
+                    	          	          	          	   57' Phil Foden   	
+      Everton       	    2     	    :     	    0     	       Leeds        	
+   23' Yerry Mina   	          	          	          	                    	
+  72' Neal Maupay   	          	          	          	                    	
+     Nottingham     	    1     	    :     	    1     	    Southampton     	
+  90+5' Chris Wood  	          	          	          	                    	
+                    	          	          	          	  90+5' Che Adams   	
+    Bournemouth     	    0     	    :     	    0     	      Arsenal       	
+      West Ham      	    1     	    :     	    1     	   Manchester Utd   	
+   7' Danny Ings    	          	          	          	                    	
+                    	          	          	          	40' Anthony Martial 	
+   Wolverhampton    	    0     	    :     	    0     	     Newcastle      	
+      Chelsea       	    0     	    :     	    0     	     Liverpool      	
+   Crystal Palace   	    1     	    :     	    0     	      Brighton      	
+  37' Eberechi Eze  	          	          	          	                    	
+       Fulham       	    0     	    :     	    1     	    Aston Villa     	
+                    	          	          	          	  80' Jacob Ramsey  	
+     Brentford      	    1     	    :     	    1     	     Tottenham      	
+  57' Yoane Wissa   	          	          	          	                    	
+                    	          	          	          	 60' Son Heung-min  	
+----Round 23----
+      Everton       	    0     	    :     	    5     	  Manchester City   	
+                    	          	          	          	 29' Julián Álvarez 	
+                    	          	          	          	 37' Julián Álvarez 	
+                    	          	          	          	42' Kevin De Bruyne 	
+                    	          	          	          	 55' Jack Grealish  	
+                    	          	          	          	87' Rodrigo Hernandez	
+     Nottingham     	    1     	    :     	    3     	   Leicester City   	
+13' Morgan Gibbs-White	          	          	          	                    	
+                    	          	          	          	45+2' Marc Albrighton	
+                    	          	          	          	51' Kelechi Iheanacho	
+                    	          	          	          	 90+1' Patson Daka  	
+    Bournemouth     	    0     	    :     	    0     	       Leeds        	
+      West Ham      	    5     	    :     	    1     	    Southampton     	
+ 28' Saïd Benrahma  	          	          	          	                    	
+                    	          	          	          	48' Duje Caleta-Car 	
+  73' Jarrod Bowen  	          	          	          	                    	
+79' Lucas Tolentino Coelho de Lima	          	          	          	                    	
+88' Gianluca Scamacca	          	          	          	                    	
+90+3' Lucas Tolentino Coelho de Lima	          	          	          	                    	
+   Wolverhampton    	    0     	    :     	    2     	      Arsenal       	
+                    	          	          	          	 27' Eddie Nketiah  	
+                    	          	          	          	  49' Granit Xhaka  	
+      Chelsea       	    2     	    :     	    0     	   Manchester Utd   	
+23' João Félix Sequeira	          	          	          	                    	
+  89' Kai Havertz   	          	          	          	                    	
+   Crystal Palace   	    0     	    :     	    2     	     Newcastle      	
+                    	          	          	          	 3' Kieran Trippier 	
+                    	          	          	          	25' Miguel Almirón Rejala	
+       Fulham       	    2     	    :     	    1     	     Liverpool      	
+                    	          	          	          	22' Roberto Firmino 	
+  32' Daniel James  	          	          	          	                    	
+70' Aleksandar Mitrović	          	          	          	                    	
+     Brentford      	    1     	    :     	    1     	      Brighton      	
+                    	          	          	          	 27' Evan Ferguson  	
+   33' Ivan Toney   	          	          	          	                    	
+     Tottenham      	    0     	    :     	    0     	    Aston Villa     	
+----Round 24----
+     Nottingham     	    0     	    :     	    2     	  Manchester City   	
+                    	          	          	          	   52' Phil Foden   	
+                    	          	          	          	59' Kevin De Bruyne 	
+    Bournemouth     	    1     	    :     	    2     	      Everton       	
+19' Marcus Tavernier	          	          	          	                    	
+                    	          	          	          	 30' Michael Keane  	
+                    	          	          	          	  39' Demarai Gray  	
+      West Ham      	    1     	    :     	    3     	   Leicester City   	
+ 10' Saïd Benrahma  	          	          	          	                    	
+                    	          	          	          	  56' Dennis Praet  	
+                    	          	          	          	 61' James Maddison 	
+                    	          	          	          	 68' James Maddison 	
+   Wolverhampton    	    2     	    :     	    1     	       Leeds        	
+30' Rúben da Silva Neves	          	          	          	                    	
+                    	          	          	          	34' Crysencio Summerville	
+64' Rúben da Silva Neves	          	          	          	                    	
+      Chelsea       	    2     	    :     	    0     	    Southampton     	
+20' Raheem Sterling 	          	          	          	                    	
+  73' Noni Madueke  	          	          	          	                    	
+   Crystal Palace   	    0     	    :     	    0     	      Arsenal       	
+       Fulham       	    1     	    :     	    0     	   Manchester Utd   	
+84' Carlos Vinícius Alves Morais	          	          	          	                    	
+     Brentford      	    0     	    :     	    2     	     Newcastle      	
+                    	          	          	          	72' Bruno Guimarães Rodriguez Moura	
+                    	          	          	          	  78' Jacob Murphy  	
+     Tottenham      	    0     	    :     	    1     	     Liverpool      	
+                    	          	          	          	  52' Curtis Jones  	
+    Aston Villa     	    1     	    :     	    2     	      Brighton      	
+                    	          	          	          	  23' Pascal Groß   	
+45+2' Emiliano Buendía Stati	          	          	          	                    	
+                    	          	          	          	  71' Joël Veltman  	
+----Round 25----
+    Bournemouth     	    1     	    :     	    0     	  Manchester City   	
+ 28' Philip Billing 	          	          	          	                    	
+      West Ham      	    1     	    :     	    0     	     Nottingham     	
+ 45+3' Declan Rice  	          	          	          	                    	
+   Wolverhampton    	    1     	    :     	    1     	      Everton       	
+                    	          	          	          	31' Abdoulaye Doucouré	
+34' Daniel Castelo Podence	          	          	          	                    	
+      Chelsea       	    1     	    :     	    1     	   Leicester City   	
+12' Ruben Loftus-Cheek	          	          	          	                    	
+                    	          	          	          	 28' James Maddison 	
+   Crystal Palace   	    1     	    :     	    1     	       Leeds        	
+                    	          	          	          	70' Junior Firpo Adames	
+90+5' Odsonne Edouard	          	          	          	                    	
+       Fulham       	    1     	    :     	    4     	    Southampton     	
+                    	          	          	          	 9' Adam Armstrong  	
+                    	          	          	          	   21' Che Adams    	
+                    	          	          	          	 28' Romain Perraud 	
+                    	          	          	          	76' James Ward-Prowse	
+90+3' Andreas Hoelgebaum Pereira	          	          	          	                    	
+     Brentford      	    0     	    :     	    1     	      Arsenal       	
+                    	          	          	          	 88' Thomas Partey  	
+     Tottenham      	    3     	    :     	    2     	   Manchester Utd   	
+  5' Son Heung-min  	          	          	          	                    	
+                    	          	          	          	 5' Marcus Rashford 	
+   8' Harry Kane    	          	          	          	                    	
+                    	          	          	          	41' Marcus Rashford 	
+   43' Harry Kane   	          	          	          	                    	
+    Aston Villa     	    2     	    :     	    2     	     Newcastle      	
+   7' Leon Bailey   	          	          	          	                    	
+66' Douglas Luiz Soares de Paulo	          	          	          	                    	
+                    	          	          	          	 76' Callum Wilson  	
+                    	          	          	          	   90+5' Dan Burn   	
+      Brighton      	    2     	    :     	    2     	     Liverpool      	
+                    	          	          	          	45+1' Harvey Elliott	
+  49' Solly March   	          	          	          	                    	
+                    	          	          	          	49' Trent Alexander-Arnold	
+ 67' Steven Alzate  	          	          	          	                    	
+----Round 26----
+      West Ham      	    2     	    :     	    0     	  Manchester City   	
+ 24' Saïd Benrahma  	          	          	          	                    	
+46' Gianluca Scamacca	          	          	          	                    	
+   Wolverhampton    	    1     	    :     	    3     	    Bournemouth     	
+                    	          	          	          	23' Marcus Tavernier	
+34' Daniel Castelo Podence	          	          	          	                    	
+                    	          	          	          	 37' Philip Billing 	
+                    	          	          	          	 86' Kieffer Moore  	
+      Chelsea       	    2     	    :     	    1     	     Nottingham     	
+32' Kalidou Koulibaly	          	          	          	                    	
+51' Raheem Sterling 	          	          	          	                    	
+                    	          	          	          	71' Brennan Johnson 	
+   Crystal Palace   	    1     	    :     	    3     	      Everton       	
+                    	          	          	          	  15' Demarai Gray  	
+                    	          	          	          	  65' Neal Maupay   	
+                    	          	          	          	  83' Amadou Onana  	
+  84' Eberechi Eze  	          	          	          	                    	
+       Fulham       	    2     	    :     	    0     	   Leicester City   	
+55' Bobby De Cordova-Reid	          	          	          	                    	
+61' Aleksandar Mitrović	          	          	          	                    	
+     Brentford      	    1     	    :     	    2     	       Leeds        	
+   12' Ivan Toney   	          	          	          	                    	
+                    	          	          	          	24' Luis Sinisterra Lucumí	
+                    	          	          	          	 31' Rodrigo Moreno 	
+     Tottenham      	    1     	    :     	    0     	    Southampton     	
+ 15' Son Heung-min  	          	          	          	                    	
+    Aston Villa     	    0     	    :     	    3     	      Arsenal       	
+                    	          	          	          	 8' Martin Ødegaard 	
+                    	          	          	          	21' Gabriel Fernando de Jesus	
+                    	          	          	          	90+4' Martin Ødegaard	
+      Brighton      	    6     	    :     	    1     	   Manchester Utd   	
+10' Alexis Mac Allister	          	          	          	                    	
+ 19' Evan Ferguson  	          	          	          	                    	
+  49' Pascal Groß   	          	          	          	                    	
+                    	          	          	          	62' Scott McTominay 	
+76' Moisés Caicedo Corozo	          	          	          	                    	
+  78' Solly March   	          	          	          	                    	
+ 90+3' Kaoru Mitoma 	          	          	          	                    	
+     Liverpool      	    0     	    :     	    0     	     Newcastle      	
+----Round 27----
+   Wolverhampton    	    0     	    :     	    0     	  Manchester City   	
+      Chelsea       	    0     	    :     	    0     	      West Ham      	
+   Crystal Palace   	    2     	    :     	    2     	    Bournemouth     	
+                    	          	          	          	20' Jefferson Lerma Solís	
+                    	          	          	          	55' Dominic Solanke 	
+ 64' James Tomkins  	          	          	          	                    	
+81' Odsonne Edouard 	          	          	          	                    	
+       Fulham       	    2     	    :     	    0     	     Nottingham     	
+41' João Palhinha Gonçalves	          	          	          	                    	
+66' João Palhinha Gonçalves	          	          	          	                    	
+     Brentford      	    1     	    :     	    2     	      Everton       	
+   49' Ivan Toney   	          	          	          	                    	
+                    	          	          	          	54' Abdoulaye Doucouré	
+                    	          	          	          	67' James Tarkowski 	
+     Tottenham      	    4     	    :     	    1     	   Leicester City   	
+                    	          	          	          	   9' Jamie Vardy   	
+ 25' Son Heung-min  	          	          	          	                    	
+ 42' Son Heung-min  	          	          	          	                    	
+   89' Ben Davies   	          	          	          	                    	
+  90+2' Harry Kane  	          	          	          	                    	
+    Aston Villa     	    2     	    :     	    3     	       Leeds        	
+                    	          	          	          	 20' Rodrigo Moreno 	
+                    	          	          	          	23' Mateo Joseph Fernández	
+                    	          	          	          	 62' Rodrigo Moreno 	
+79' Philippe Coutinho Correia	          	          	          	                    	
+ 85' Ollie Watkins  	          	          	          	                    	
+      Brighton      	    2     	    :     	    1     	    Southampton     	
+ 58' Evan Ferguson  	          	          	          	                    	
+                    	          	          	          	71' Stuart Armstrong	
+  84' Julio Enciso  	          	          	          	                    	
+     Liverpool      	    1     	    :     	    3     	      Arsenal       	
+                    	          	          	          	 3' William Saliba  	
+ 42' Harvey Elliott 	          	          	          	                    	
+                    	          	          	          	57' Leandro Trossard	
+                    	          	          	          	90+2' Jorge Luiz Frello Filho	
+     Newcastle      	    4     	    :     	    0     	   Manchester Utd   	
+ 12' Alexander Isak 	          	          	          	                    	
+ 29' Callum Wilson  	          	          	          	                    	
+ 45+2' Joe Willock  	          	          	          	                    	
+ 70' Callum Wilson  	          	          	          	                    	
+----Round 28----
+      Chelsea       	    0     	    :     	    0     	  Manchester City   	
+   Crystal Palace   	    2     	    :     	    0     	   Wolverhampton    	
+24' Joachim Andersen	          	          	          	                    	
+ 25' Michael Olise  	          	          	          	                    	
+       Fulham       	    1     	    :     	    1     	      West Ham      	
+                    	          	          	          	   10' Danny Ings   	
+15' Carlos Vinícius Alves Morais	          	          	          	                    	
+     Brentford      	    4     	    :     	    0     	    Bournemouth     	
+  20' Yoane Wissa   	          	          	          	                    	
+  45' Yoane Wissa   	          	          	          	                    	
+    52' Ben Mee     	          	          	          	                    	
+   55' Ivan Toney   	          	          	          	                    	
+     Tottenham      	    3     	    :     	    0     	     Nottingham     	
+39' Dejan Kulusevski	          	          	          	                    	
+66' Rodrigo Bentancur	          	          	          	                    	
+   76' Harry Kane   	          	          	          	                    	
+    Aston Villa     	    1     	    :     	    0     	      Everton       	
+39' Douglas Luiz Soares de Paulo	          	          	          	                    	
+      Brighton      	    1     	    :     	    2     	   Leicester City   	
+                    	          	          	          	   5' Patson Daka   	
+                    	          	          	          	 6' James Maddison  	
+  31' Julio Enciso  	          	          	          	                    	
+     Liverpool      	    5     	    :     	    0     	       Leeds        	
+ 12' Mohamed Salah  	          	          	          	                    	
+16' Diogo Teixeira da Silva	          	          	          	                    	
+17' Diogo Teixeira da Silva	          	          	          	                    	
+ 47' Mohamed Salah  	          	          	          	                    	
+ 74' Mohamed Salah  	          	          	          	                    	
+     Newcastle      	    4     	    :     	    0     	    Southampton     	
+ 41' Callum Wilson  	          	          	          	                    	
+ 42' Alexander Isak 	          	          	          	                    	
+ 51' Callum Wilson  	          	          	          	                    	
+ 53' Callum Wilson  	          	          	          	                    	
+   Manchester Utd   	    0     	    :     	    1     	      Arsenal       	
+                    	          	          	          	   8' Bukayo Saka   	
+----Round 29----
+   Crystal Palace   	    3     	    :     	    1     	  Manchester City   	
+30' Odsonne Edouard 	          	          	          	                    	
+                    	          	          	          	 44' Julián Álvarez 	
+45+5' Michael Olise 	          	          	          	                    	
+85' Joachim Andersen	          	          	          	                    	
+       Fulham       	    0     	    :     	    0     	      Chelsea       	
+     Brentford      	    3     	    :     	    2     	   Wolverhampton    	
+   19' Ivan Toney   	          	          	          	                    	
+   28' Ivan Toney   	          	          	          	                    	
+                    	          	          	          	31' Pedro Lomba Neto	
+ 58' Vitaly Janelt  	          	          	          	                    	
+                    	          	          	          	60' Adama Traoré Diarra	
+     Tottenham      	    5     	    :     	    2     	      West Ham      	
+1' Rodrigo Bentancur	          	          	          	                    	
+                    	          	          	          	  5' Saïd Benrahma  	
+12' Pierre-Emile Højbjerg	          	          	          	                    	
+                    	          	          	          	  46' Tomas Soucek  	
+   57' Harry Kane   	          	          	          	                    	
+   71' Harry Kane   	          	          	          	                    	
+   89' Harry Kane   	          	          	          	                    	
+    Aston Villa     	    2     	    :     	    1     	    Bournemouth     	
+1' Douglas Luiz Soares de Paulo	          	          	          	                    	
+ 23' Ollie Watkins  	          	          	          	                    	
+                    	          	          	          	56' Jefferson Lerma Solís	
+      Brighton      	    4     	    :     	    0     	     Nottingham     	
+22' Alexis Mac Allister	          	          	          	                    	
+  62' Solly March   	          	          	          	                    	
+  78' Andrew Moran  	          	          	          	                    	
+ 87' Danny Welbeck  	          	          	          	                    	
+     Liverpool      	    1     	    :     	    1     	      Everton       	
+                    	          	          	          	 71' Michael Keane  	
+  90+2' Cody Gakpo  	          	          	          	                    	
+     Newcastle      	    1     	    :     	    1     	   Leicester City   	
+ 70' Alexander Isak 	          	          	          	                    	
+                    	          	          	          	 75' James Maddison 	
+   Manchester Utd   	    6     	    :     	    0     	       Leeds        	
+2' Frederico Rodrigues de Paula Santos	          	          	          	                    	
+ 8' Marcus Rashford 	          	          	          	                    	
+24' Anthony Martial 	          	          	          	                    	
+29' Frederico Rodrigues de Paula Santos	          	          	          	                    	
+  39' Jadon Sancho  	          	          	          	                    	
+61' Bruno Borges Fernandes	          	          	          	                    	
+      Arsenal       	    3     	    :     	    1     	    Southampton     	
+  13' Bukayo Saka   	          	          	          	                    	
+24' Martin Ødegaard 	          	          	          	                    	
+  44' Bukayo Saka   	          	          	          	                    	
+                    	          	          	          	90+1' James Ward-Prowse	
+----Round 30----
+       Fulham       	    1     	    :     	    1     	  Manchester City   	
+45+5' Bobby De Cordova-Reid	          	          	          	                    	
+                    	          	          	          	   84' Phil Foden   	
+     Brentford      	    1     	    :     	    0     	   Crystal Palace   	
+   80' Ivan Toney   	          	          	          	                    	
+     Tottenham      	    1     	    :     	    0     	      Chelsea       	
+   48' Eric Dier    	          	          	          	                    	
+    Aston Villa     	    2     	    :     	    2     	   Wolverhampton    	
+1' Philippe Coutinho Correia	          	          	          	                    	
+                    	          	          	          	57' Toti António Gomes	
+71' Douglas Luiz Soares de Paulo	          	          	          	                    	
+                    	          	          	          	83' João Victor Gomes da Silva	
+      Brighton      	    2     	    :     	    4     	      West Ham      	
+                    	          	          	          	  19' Tomas Soucek  	
+                    	          	          	          	28' Gianluca Scamacca	
+  30' Solly March   	          	          	          	                    	
+                    	          	          	          	  53' Declan Rice   	
+                    	          	          	          	 60' Saïd Benrahma  	
+ 79' Steven Alzate  	          	          	          	                    	
+     Liverpool      	    2     	    :     	    1     	    Bournemouth     	
+                    	          	          	          	20' Antoine Semenyo 	
+45+3' Diogo Teixeira da Silva	          	          	          	                    	
+60' Virgil van Dijk 	          	          	          	                    	
+     Newcastle      	    1     	    :     	    0     	     Nottingham     	
+45+4' Callum Wilson 	          	          	          	                    	
+   Manchester Utd   	    1     	    :     	    2     	      Everton       	
+                    	          	          	          	20' Abdoulaye Doucouré	
+45' Bruno Borges Fernandes	          	          	          	                    	
+                    	          	          	          	 65' Dwight McNeil  	
+      Arsenal       	    8     	    :     	    3     	   Leicester City   	
+                    	          	          	          	  6' Harvey Barnes  	
+                    	          	          	          	   7' Jamie Vardy   	
+15' Gabriel Fernando de Jesus	          	          	          	                    	
+16' Gabriel dos Santos Magalhães	          	          	          	                    	
+18' Gabriel Martinelli Silva	          	          	          	                    	
+  26' Bukayo Saka   	          	          	          	                    	
+ 31' Eddie Nketiah  	          	          	          	                    	
+31' Martin Ødegaard 	          	          	          	                    	
+45+1' Gabriel Martinelli Silva	          	          	          	                    	
+67' Gabriel Fernando de Jesus	          	          	          	                    	
+                    	          	          	          	 81' Harvey Barnes  	
+    Southampton     	    0     	    :     	    4     	       Leeds        	
+                    	          	          	          	 25' Rodrigo Moreno 	
+                    	          	          	          	30' Crysencio Summerville	
+                    	          	          	          	56' Patrick Bamford 	
+                    	          	          	          	59' Rasmus Kristensen	
+----Round 31----
+     Brentford      	    2     	    :     	    1     	  Manchester City   	
+                    	          	          	          	 37' Ilkay Gündogan 	
+   41' Ivan Toney   	          	          	          	                    	
+   47' Ivan Toney   	          	          	          	                    	
+     Tottenham      	    0     	    :     	    1     	       Fulham       	
+                    	          	          	          	59' Andreas Hoelgebaum Pereira	
+    Aston Villa     	    0     	    :     	    1     	   Crystal Palace   	
+                    	          	          	          	  2' Michael Olise  	
+      Brighton      	    0     	    :     	    0     	      Chelsea       	
+     Liverpool      	    2     	    :     	    0     	   Wolverhampton    	
+51' Roberto Firmino 	          	          	          	                    	
+60' Fábio Freitas Gouveia Carvalho	          	          	          	                    	
+     Newcastle      	    1     	    :     	    2     	      West Ham      	
+                    	          	          	          	  1' Jarrod Bowen   	
+45+3' Miguel Almirón Rejala	          	          	          	                    	
+                    	          	          	          	84' Michail Antonio 	
+   Manchester Utd   	    1     	    :     	    0     	    Bournemouth     	
+   84' Luke Shaw    	          	          	          	                    	
+      Arsenal       	    3     	    :     	    0     	     Nottingham     	
+  15' Bukayo Saka   	          	          	          	                    	
+44' Gabriel Martinelli Silva	          	          	          	                    	
+90+4' Gabriel Martinelli Silva	          	          	          	                    	
+    Southampton     	    1     	    :     	    1     	      Everton       	
+  31' Theo Walcott  	          	          	          	                    	
+                    	          	          	          	 73' Dwight McNeil  	
+       Leeds        	    1     	    :     	    1     	   Leicester City   	
+ 22' Jack Harrison  	          	          	          	                    	
+                    	          	          	          	90' Timothy Castagne	
+----Round 32----
+     Tottenham      	    3     	    :     	    2     	  Manchester City   	
+9' Lucas Rodrigues Moura da Silva	          	          	          	                    	
+                    	          	          	          	 26' Ilkay Gündogan 	
+                    	          	          	          	 34' Erling Haaland 	
+67' Emerson Leite de Souza Junior	          	          	          	                    	
+90+5' Arnaut Danjuma	          	          	          	                    	
+    Aston Villa     	    1     	    :     	    0     	     Brentford      	
+40' Ezri Konsa Ngoyo	          	          	          	                    	
+      Brighton      	    0     	    :     	    1     	       Fulham       	
+                    	          	          	          	7' Aleksandar Mitrović	
+     Liverpool      	    1     	    :     	    2     	   Crystal Palace   	
+                    	          	          	          	 8' Odsonne Edouard 	
+   42' Cody Gakpo   	          	          	          	                    	
+                    	          	          	          	   75' Marc Guéhi   	
+     Newcastle      	    2     	    :     	    0     	      Chelsea       	
+  3' Jacob Murphy   	          	          	          	                    	
+26' Miguel Almirón Rejala	          	          	          	                    	
+   Manchester Utd   	    0     	    :     	    1     	   Wolverhampton    	
+                    	          	          	          	7' Daniel Castelo Podence	
+      Arsenal       	    2     	    :     	    0     	      West Ham      	
+7' Leandro Trossard 	          	          	          	                    	
+12' Gabriel Fernando de Jesus	          	          	          	                    	
+    Southampton     	    1     	    :     	    1     	    Bournemouth     	
+ 28' Adam Armstrong 	          	          	          	                    	
+                    	          	          	          	86' Dominic Solanke 	
+       Leeds        	    3     	    :     	    1     	     Nottingham     	
+ 22' Rodrigo Moreno 	          	          	          	                    	
+ 35' Rodrigo Moreno 	          	          	          	                    	
+57' Rasmus Kristensen	          	          	          	                    	
+                    	          	          	          	90+2' Brennan Johnson	
+   Leicester City   	    3     	    :     	    0     	      Everton       	
+40' Marc Albrighton 	          	          	          	                    	
+ 56' Harvey Barnes  	          	          	          	                    	
+63' Kelechi Iheanacho	          	          	          	                    	
+----Round 33----
+    Aston Villa     	    0     	    :     	    1     	  Manchester City   	
+                    	          	          	          	 10' Erling Haaland 	
+      Brighton      	    2     	    :     	    2     	     Tottenham      	
+41' Pervis Estupiñán	          	          	          	                    	
+                    	          	          	          	   49' Harry Kane   	
+  78' Kaoru Mitoma  	          	          	          	                    	
+                    	          	          	          	 90' Son Heung-min  	
+     Liverpool      	    2     	    :     	    2     	     Brentford      	
+                    	          	          	          	 19' Mathias Jensen 	
+                    	          	          	          	    60' Ben Mee     	
+66' Darwin Núñez Ribeiro	          	          	          	                    	
+72' Roberto Firmino 	          	          	          	                    	
+     Newcastle      	    1     	    :     	    0     	       Fulham       	
+32' Javier Manquillo Gaitán	          	          	          	                    	
+   Manchester Utd   	    0     	    :     	    0     	   Crystal Palace   	
+      Arsenal       	    2     	    :     	    2     	      Chelsea       	
+32' Martin Ødegaard 	          	          	          	                    	
+44' Gabriel Martinelli Silva	          	          	          	                    	
+                    	          	          	          	  45' Kai Havertz   	
+                    	          	          	          	75' Raheem Sterling 	
+    Southampton     	    2     	    :     	    1     	   Wolverhampton    	
+   3' Roméo Lavia   	          	          	          	                    	
+   58' Che Adams    	          	          	          	                    	
+                    	          	          	          	83' Rúben da Silva Neves	
+       Leeds        	    2     	    :     	    1     	      West Ham      	
+2' Rasmus Kristensen	          	          	          	                    	
+48' Luis Sinisterra Lucumí	          	          	          	                    	
+                    	          	          	          	90+5' Michail Antonio	
+   Leicester City   	    3     	    :     	    1     	    Bournemouth     	
+ 13' James Maddison 	          	          	          	                    	
+45+1' Harvey Barnes 	          	          	          	                    	
+                    	          	          	          	  51' Matías Viña   	
+90+1' Harvey Barnes 	          	          	          	                    	
+      Everton       	    1     	    :     	    1     	     Nottingham     	
+   11' Yerry Mina   	          	          	          	                    	
+                    	          	          	          	64' Brennan Johnson 	
+----Round 34----
+      Brighton      	    1     	    :     	    1     	  Manchester City   	
+                    	          	          	          	63' Kevin De Bruyne 	
+ 89' Evan Ferguson  	          	          	          	                    	
+     Liverpool      	    2     	    :     	    1     	    Aston Villa     	
+  1' Mohamed Salah  	          	          	          	                    	
+                    	          	          	          	 54' Ollie Watkins  	
+72' Darwin Núñez Ribeiro	          	          	          	                    	
+     Newcastle      	    3     	    :     	    1     	     Tottenham      	
+  3' Callum Wilson  	          	          	          	                    	
+27' Joelinton Cássio Apolinário de Lira	          	          	          	                    	
+ 50' Callum Wilson  	          	          	          	                    	
+                    	          	          	          	  80' Matt Doherty  	
+   Manchester Utd   	    1     	    :     	    0     	     Brentford      	
+85' Bruno Borges Fernandes	          	          	          	                    	
+      Arsenal       	    0     	    :     	    2     	       Fulham       	
+                    	          	          	          	88' Willian Borges da Silva	
+                    	          	          	          	89' Bobby De Cordova-Reid	
+    Southampton     	    1     	    :     	    2     	   Crystal Palace   	
+                    	          	          	          	37' Joachim Andersen	
+47' James Ward-Prowse	          	          	          	                    	
+                    	          	          	          	90+3' Odsonne Edouard	
+       Leeds        	    3     	    :     	    1     	      Chelsea       	
+ 15' Jack Harrison  	          	          	          	                    	
+ 37' Rodrigo Moreno 	          	          	          	                    	
+                    	          	          	          	41' Conor Gallagher 	
+  88' Liam Cooper   	          	          	          	                    	
+   Leicester City   	    1     	    :     	    1     	   Wolverhampton    	
+                    	          	          	          	45+4' Pablo Sarabia 	
+  57' Jamie Vardy   	          	          	          	                    	
+      Everton       	    0     	    :     	    2     	      West Ham      	
+                    	          	          	          	 13' Saïd Benrahma  	
+                    	          	          	          	16' Pablo Fornals Malla	
+     Nottingham     	    3     	    :     	    4     	    Bournemouth     	
+22' Brennan Johnson 	          	          	          	                    	
+                    	          	          	          	 45' Philip Billing 	
+                    	          	          	          	45+1' Marcus Tavernier	
+49' Brennan Johnson 	          	          	          	                    	
+  62' Orel Mangala  	          	          	          	                    	
+                    	          	          	          	 67' Philip Billing 	
+                    	          	          	          	82' Marcus Tavernier	
+----Round 35----
+     Liverpool      	    3     	    :     	    1     	  Manchester City   	
+                    	          	          	          	 58' Jack Grealish  	
+65' Diogo Teixeira da Silva	          	          	          	                    	
+74' Darwin Núñez Ribeiro	          	          	          	                    	
+90+1' Mohamed Salah 	          	          	          	                    	
+     Newcastle      	    0     	    :     	    0     	      Brighton      	
+   Manchester Utd   	    0     	    :     	    1     	    Aston Villa     	
+                    	          	          	          	90+3' Douglas Luiz Soares de Paulo	
+      Arsenal       	    3     	    :     	    2     	     Tottenham      	
+                    	          	          	          	 13' Son Heung-min  	
+                    	          	          	          	   20' Harry Kane   	
+45' Leandro Trossard	          	          	          	                    	
+55' Oleksandr Zinchenko	          	          	          	                    	
+61' Martin Ødegaard 	          	          	          	                    	
+    Southampton     	    1     	    :     	    0     	     Brentford      	
+ 54' Carlos Alcaraz 	          	          	          	                    	
+       Leeds        	    1     	    :     	    4     	       Fulham       	
+                    	          	          	          	    30' Tim Ream    	
+ 45' Jack Harrison  	          	          	          	                    	
+                    	          	          	          	 45+5' Tom Cairney  	
+                    	          	          	          	78' Aleksandar Mitrović	
+                    	          	          	          	87' Aleksandar Mitrović	
+   Leicester City   	    0     	    :     	    0     	   Crystal Palace   	
+      Everton       	    1     	    :     	    0     	      Chelsea       	
+  22' Ellis Simms   	          	          	          	                    	
+     Nottingham     	    2     	    :     	    3     	   Wolverhampton    	
+  23' Sam Surridge  	          	          	          	                    	
+                    	          	          	          	43' Rúben da Silva Neves	
+                    	          	          	          	47' Daniel Castelo Podence	
+ 73' Lewis O'Brien  	          	          	          	                    	
+                    	          	          	          	  83' Fabio Silva   	
+    Bournemouth     	    1     	    :     	    2     	      West Ham      	
+                    	          	          	          	   16' Kurt Zouma   	
+                    	          	          	          	   59' Danny Ings   	
+74' Dominic Solanke 	          	          	          	                    	
+----Round 36----
+     Newcastle      	    2     	    :     	    3     	  Manchester City   	
+ 16' Anthony Gordon 	          	          	          	                    	
+                    	          	          	          	 18' Erling Haaland 	
+                    	          	          	          	53' Kevin De Bruyne 	
+                    	          	          	          	 54' Erling Haaland 	
+  55' Jacob Murphy  	          	          	          	                    	
+   Manchester Utd   	    2     	    :     	    0     	     Liverpool      	
+77' Bruno Borges Fernandes	          	          	          	                    	
+86' Marcus Rashford 	          	          	          	                    	
+      Arsenal       	    2     	    :     	    1     	      Brighton      	
+                    	          	          	          	  25' Julio Enciso  	
+41' Gabriel Fernando de Jesus	          	          	          	                    	
+88' Gabriel dos Santos Magalhães	          	          	          	                    	
+    Southampton     	    0     	    :     	    1     	    Aston Villa     	
+                    	          	          	          	28' Philippe Coutinho Correia	
+       Leeds        	    0     	    :     	    5     	     Tottenham      	
+                    	          	          	          	   6' Pedro Porro   	
+                    	          	          	          	 15' Ryan Sessegnon 	
+                    	          	          	          	19' Richarlison de Andrade	
+                    	          	          	          	 42' Son Heung-min  	
+                    	          	          	          	   67' Harry Kane   	
+   Leicester City   	    0     	    :     	    0     	     Brentford      	
+      Everton       	    0     	    :     	    2     	       Fulham       	
+                    	          	          	          	21' Andreas Hoelgebaum Pereira	
+                    	          	          	          	 71' Manor Solomon  	
+     Nottingham     	    1     	    :     	    1     	   Crystal Palace   	
+                    	          	          	          	45+3' Jean-Philippe Mateta	
+  45+5' Chris Wood  	          	          	          	                    	
+    Bournemouth     	    0     	    :     	    2     	      Chelsea       	
+                    	          	          	          	  36' Kai Havertz   	
+                    	          	          	          	  49' Kai Havertz   	
+      West Ham      	    0     	    :     	    0     	   Wolverhampton    	
+----Round 37----
+   Manchester Utd   	    2     	    :     	    1     	  Manchester City   	
+19' Marcus Rashford 	          	          	          	                    	
+                    	          	          	          	   26' Nathan Aké   	
+  63' Jadon Sancho  	          	          	          	                    	
+      Arsenal       	    1     	    :     	    2     	     Newcastle      	
+                    	          	          	          	  45' Joe Willock   	
+                    	          	          	          	 58' Alexander Isak 	
+79' Leandro Trossard	          	          	          	                    	
+    Southampton     	    0     	    :     	    1     	     Liverpool      	
+                    	          	          	          	 49' Mohamed Salah  	
+       Leeds        	    0     	    :     	    6     	      Brighton      	
+                    	          	          	          	5' Alexis Mac Allister	
+                    	          	          	          	27' Alexis Mac Allister	
+                    	          	          	          	  42' Kaoru Mitoma  	
+                    	          	          	          	  48' Solly March   	
+                    	          	          	          	  50' Kaoru Mitoma  	
+                    	          	          	          	   58' Tom McGill   	
+   Leicester City   	    0     	    :     	    2     	    Aston Villa     	
+                    	          	          	          	  52' Leon Bailey   	
+                    	          	          	          	 77' Ollie Watkins  	
+      Everton       	    0     	    :     	    2     	     Tottenham      	
+                    	          	          	          	   9' Harry Kane    	
+                    	          	          	          	   49' Harry Kane   	
+     Nottingham     	    1     	    :     	    1     	     Brentford      	
+                    	          	          	          	  21' Yoane Wissa   	
+59' Emmanuel Dennis 	          	          	          	                    	
+    Bournemouth     	    0     	    :     	    2     	       Fulham       	
+                    	          	          	          	8' Aleksandar Mitrović	
+                    	          	          	          	  69' Harry Wilson  	
+      West Ham      	    0     	    :     	    0     	   Crystal Palace   	
+   Wolverhampton    	    1     	    :     	    2     	      Chelsea       	
+                    	          	          	          	11' Conor Gallagher 	
+                    	          	          	          	 50' Wesley Fofana  	
+60' Diego Da Silva Costa	          	          	          	                    	
+----Round 38----
+      Arsenal       	    2     	    :     	    1     	  Manchester City   	
+                    	          	          	          	 34' Erling Haaland 	
+  62' Bukayo Saka   	          	          	          	                    	
+62' Gabriel Fernando de Jesus	          	          	          	                    	
+    Southampton     	    1     	    :     	    3     	   Manchester Utd   	
+                    	          	          	          	35' Bruno Borges Fernandes	
+45+3' James Ward-Prowse	          	          	          	                    	
+                    	          	          	          	67' Marcus Rashford 	
+                    	          	          	          	90' Carlos Henrique Casimiro	
+       Leeds        	    0     	    :     	    0     	     Newcastle      	
+   Leicester City   	    1     	    :     	    0     	     Liverpool      	
+   8' Patson Daka   	          	          	          	                    	
+      Everton       	    1     	    :     	    0     	      Brighton      	
+  58' James Garner  	          	          	          	                    	
+     Nottingham     	    0     	    :     	    2     	    Aston Villa     	
+                    	          	          	          	  50' Leon Bailey   	
+                    	          	          	          	  71' Jacob Ramsey  	
+    Bournemouth     	    1     	    :     	    4     	     Tottenham      	
+                    	          	          	          	   20' Harry Kane   	
+67' Antoine Semenyo 	          	          	          	                    	
+                    	          	          	          	 70' Son Heung-min  	
+                    	          	          	          	 78' Son Heung-min  	
+                    	          	          	          	 82' Ryan Sessegnon 	
+      West Ham      	    1     	    :     	    1     	     Brentford      	
+                    	          	          	          	  61' Bryan Mbeumo  	
+ 90+2' Declan Rice  	          	          	          	                    	
+   Wolverhampton    	    1     	    :     	    2     	       Fulham       	
+                    	          	          	          	11' Carlos Vinícius Alves Morais	
+                    	          	          	          	31' Carlos Vinícius Alves Morais	
+ 54' Pablo Sarabia  	          	          	          	                    	
+      Chelsea       	    1     	    :     	    0     	   Crystal Palace   	
+90+1' Armando Broja 	          	          	          	                    	
+        Team        	   Rank   	  Points  	  W/D/L   	  Goals   	  Losses  	Difference
+      Arsenal       	    1     	    77    	  23/8/7  	    79    	    37    	    42    
+     Tottenham      	    2     	    74    	 23/5/10  	    86    	    55    	    31    
+     Newcastle      	    3     	    73    	 21/10/7  	    64    	    29    	    35    
+     Liverpool      	    4     	    71    	  21/8/9  	    70    	    43    	    27    
+    Aston Villa     	    5     	    71    	 22/5/11  	    52    	    39    	    13    
+  Manchester City   	    6     	    67    	 20/7/11  	    77    	    43    	    34    
+      Brighton      	    7     	    59    	 16/11/11 	    82    	    53    	    29    
+       Fulham       	    8     	    59    	 17/8/13  	    49    	    44    	    5     
+   Crystal Palace   	    9     	    57    	 16/9/13  	    43    	    37    	    6     
+      Chelsea       	    10    	    53    	 13/14/11 	    36    	    34    	    2     
+     Brentford      	    11    	    52    	 15/7/16  	    52    	    50    	    2     
+   Manchester Utd   	    12    	    52    	 15/7/16  	    52    	    53    	    -1    
+   Leicester City   	    13    	    51    	 13/12/13 	    56    	    54    	    2     
+       Leeds        	    14    	    49    	 14/7/17  	    56    	    79    	   -23    
+      Everton       	    15    	    44    	 12/8/18  	    30    	    58    	   -28    
+      West Ham      	    16    	    42    	 10/12/16 	    40    	    52    	   -12    
+    Bournemouth     	    17    	    32    	  8/8/22  	    37    	    74    	   -37    
+   Wolverhampton    	    18    	    29    	 6/11/21  	    31    	    65    	   -34    
+    Southampton     	    19    	    21    	  5/6/27  	    30    	    78    	   -48    
+     Nottingham     	    20    	    20    	 3/11/24  	    24    	    69    	   -45    
+The champion is Arsenal
+        Rank        	  Player  	  Goals   
+         1          	Harry Kane	    38    
+         2          	Erling Haaland	    29    
+         3          	Ivan Toney	    23    
+         4          	Callum Wilson	    23    
+         5          	Mohamed Salah	    17    
+         6          	Son Heung-min	    16    
+         7          	Aleksandar Mitrović	    15    
+         8          	Evan Ferguson	    14    
+         9          	Martin Ødegaard	    14    
+         10         	Alexis Mac Allister	    14    
+         11         	Marcus Rashford	    14    
+         12         	Harvey Barnes	    13    
+         13         	Rodrigo Moreno	    13    
+         14         	Eberechi Eze	    11    
+         15         	Roberto Firmino	    11    
+         16         	Gabriel Martinelli Silva	    11    
+         17         	Alexander Isak	    11    
+         18         	Jacob Ramsey	    11    
+         19         	Bukayo Saka	    11    
+         20         	Phil Foden	    10    
+         21         	James Maddison	    10    
+         22         	Diogo Teixeira da Silva	    10    
+         23         	Daniel Castelo Podence	    10    
+         24         	Ollie Watkins	    10    
+         25         	Leandro Trossard	    10    
+         26         	Gabriel Fernando de Jesus	    10    
+         27         	Julián Álvarez	    9     
+         28         	Raheem Sterling	    9     
+         29         	Kevin De Bruyne	    9     
+         30         	Solly March	    9     
+        Rank        	  Player  	 Assists  
+         1          	Solly March	    22    
+         2          	Michael Olise	    17    
+         3          	Riyad Mahrez	    14    
+         4          	Kevin De Bruyne	    14    
+         5          	Leandro Trossard	    12    
+         6          	Dominic Solanke	    12    
+         7          	Ivan Perišić	    12    
+         8          	Martin Ødegaard	    11    
+         9          	Christian Eriksen	    11    
+         10         	Mohamed Salah	    10    
+         11         	Bryan Mbeumo	    9     
+         12         	Christian Nørgaard	    9     
+         13         	Darwin Núñez Ribeiro	    9     
+         14         	Andreas Hoelgebaum Pereira	    9     
+         15         	Brenden Aaronson	    9     
+         16         	Bruno Borges Fernandes	    9     
+         17         	Douglas Luiz Soares de Paulo	    9     
+         18         	Bukayo Saka	    9     
+         19         	Kaoru Mitoma	    9     
+         20         	Trent Alexander-Arnold	    8     
+         21         	Pervis Estupiñán	    8     
+         22         	Jarrod Bowen	    8     
+         23         	Timothy Castagne	    8     
+         24         	James Maddison	    8     
+         25         	Rodrigo Hernandez	    8     
+         26         	Harry Kane	    8     
+         27         	Pierre-Emile Højbjerg	    8     
+         28         	Kieran Trippier	    8     
+         29         	Andrew Robertson	    7     
+         30         	Deniz Undav	    7     
