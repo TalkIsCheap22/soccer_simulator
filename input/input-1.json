@@ -1,0 +1,133 @@
+{
+    "name": "Premier League",
+    "tot_rounds": 10, 
+    "teams":[
+        {
+            "name": "Manchester United",
+            "prev_home_goals": 10,
+            "prev_away_goals": 8,
+            "prev_home_losses": 7,
+            "prev_away_losses": 9,
+            "prev_home_matches": 4,
+            "prev_away_matches": 4,
+            "players": [
+                {
+                    "name": "Bruno Fernandez",
+                    "prev_home_goals": 5,
+                    "prev_away_goals": 4,
+                    "prev_home_assists": 5,
+                    "prev_away_assists": 4
+                },
+                {
+                    "name": "Marcus Rashford",
+                    "prev_home_goals": 5,
+                    "prev_away_goals": 4,
+                    "prev_home_assists": 5,
+                    "prev_away_assists": 4
+                }
+            ]
+        },
+        {
+            "name": "Manchester City",
+            "prev_home_goals": 12,
+            "prev_away_goals": 8,
+            "prev_home_losses": 20,
+            "prev_away_losses": 11,
+            "prev_home_matches": 4,
+            "prev_away_matches": 4,
+            "players": [
+                {
+                    "name": "Kevin De Bruyne",
+                    "prev_home_goals": 6,
+                    "prev_away_goals": 4,
+                    "prev_home_assists": 6,
+                    "prev_away_assists": 4
+                },
+                {
+                    "name": "Erling Haaland",
+                    "prev_home_goals": 7,
+                    "prev_away_goals": 5,
+                    "prev_home_assists": 7,
+                    "prev_away_assists": 5
+                }
+            ]
+        }
+    ],
+    "rounds":[
+        [
+            {
+                "home": "Manchester United",
+                "away": "Manchester City",
+                "round": 1
+            }
+        ],
+        [
+
+            {
+                "home": "Manchester City",
+                "away": "Manchester United",
+                "round": 2
+            }
+        ],
+        [
+            {
+                "home": "Manchester United",
+                "away": "Manchester City",
+                "round": 3
+            }
+        ],
+        [
+
+            {
+                "home": "Manchester City",
+                "away": "Manchester United",
+                "round": 4
+            }
+        ],
+        [
+            {
+                "home": "Manchester United",
+                "away": "Manchester City",
+                "round": 5
+            }
+        ],
+        [
+
+            {
+                "home": "Manchester City",
+                "away": "Manchester United",
+                "round": 6
+            }
+        ],
+        [
+            {
+                "home": "Manchester United",
+                "away": "Manchester City",
+                "round": 7
+            }
+        ],
+        [
+
+            {
+                "home": "Manchester City",
+                "away": "Manchester United",
+                "round": 8
+            }
+        ],
+        [
+            {
+                "home": "Manchester United",
+                "away": "Manchester City",
+                "round": 9
+            }
+        ],
+        [
+
+            {
+                "home": "Manchester City",
+                "away": "Manchester United",
+                "round": 10
+            }
+        ]
+    ]
+}
